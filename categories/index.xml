@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on La Pesquera Cuenca</title>
-    <link>http://elmanco.es/lapesquera/categories/</link>
+    <link>https://lapesquera-cuenca.github.io/lapesquera/categories/</link>
     <description>Recent content in Categories on La Pesquera Cuenca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© La Pesquera News</copyright>
-    <lastBuildDate>Mon, 28 Dec 2020 18:48:12 +0100</lastBuildDate><atom:link href="http://elmanco.es/lapesquera/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 18:48:12 +0100</lastBuildDate><atom:link href="https://lapesquera-cuenca.github.io/lapesquera/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>invierno</title>
-      <link>http://elmanco.es/lapesquera/categories/invierno/</link>
+      <link>https://lapesquera-cuenca.github.io/lapesquera/categories/invierno/</link>
       <pubDate>Mon, 28 Dec 2020 18:48:12 +0100</pubDate>
       
-      <guid>http://elmanco.es/lapesquera/categories/invierno/</guid>
+      <guid>https://lapesquera-cuenca.github.io/lapesquera/categories/invierno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>verano</title>
-      <link>http://elmanco.es/lapesquera/categories/verano/</link>
+      <link>https://lapesquera-cuenca.github.io/lapesquera/categories/verano/</link>
       <pubDate>Sun, 16 Aug 2020 18:48:12 +0100</pubDate>
       
-      <guid>http://elmanco.es/lapesquera/categories/verano/</guid>
+      <guid>https://lapesquera-cuenca.github.io/lapesquera/categories/verano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>primavera</title>
-      <link>http://elmanco.es/lapesquera/categories/primavera/</link>
+      <link>https://lapesquera-cuenca.github.io/lapesquera/categories/primavera/</link>
       <pubDate>Fri, 01 May 2020 18:48:12 +0100</pubDate>
       
-      <guid>http://elmanco.es/lapesquera/categories/primavera/</guid>
+      <guid>https://lapesquera-cuenca.github.io/lapesquera/categories/primavera/</guid>
       <description></description>
     </item>
     
